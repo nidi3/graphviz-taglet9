@@ -20,6 +20,13 @@
         <suppressionFile>owasp-suppression.xml</suppressionFile>
     </properties>
 
+    <scm>
+        <connection>scm:git:https://github.com/nidi3/graphviz-taglet9</connection>
+        <developerConnection>scm:git:https://github.com/nidi3/graphviz-taglet9</developerConnection>
+        <url>https://github.com/nidi3/graphviz-taglet9</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
