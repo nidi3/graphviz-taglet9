@@ -16,6 +16,10 @@
     <url>https://github.com/nidi3/graphviz-taglet9</url>
     <inceptionYear>2019</inceptionYear>
 
+    <properties>
+        <suppressionFile>owasp-suppression.xml</suppressionFile>
+    </properties>
+
     <build>
         <plugins>
             <plugin>
