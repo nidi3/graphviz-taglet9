@@ -4,7 +4,6 @@ This is the JDK9 compatible version the [taglet](https://github.com/nidi3/graphv
 module of [graphviz-java](https://github.com/nidi3/graphviz-java).
 
 ## Usage
-## Javadoc
 To use graphviz inside javadoc comments, add this to `pom.xml`:
 ```xml
 <build>
