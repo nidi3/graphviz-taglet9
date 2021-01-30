@@ -4,7 +4,7 @@
     <parent>
         <groupId>guru.nidi</groupId>
         <artifactId>guru-nidi-parent-pom</artifactId>
-        <version>1.1.27</version>
+        <version>1.1.36</version>
         <relativePath />
     </parent>
 
@@ -17,6 +17,7 @@
 
     <properties>
         <suppressionFile>owasp-suppression.xml</suppressionFile>
+        <module.name>guru.nidi.graphviz.taglet9</module.name>
     </properties>
 
     <scm>
