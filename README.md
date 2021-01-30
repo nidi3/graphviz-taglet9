@@ -16,7 +16,7 @@ To use graphviz inside javadoc comments, add this to `pom.xml`:
         <tagletArtifact>
           <groupId>guru.nidi</groupId>
           <artifactId>graphviz-taglet9</artifactId>
-          <version>0.10.0</version>
+          <version>0.18.0</version>
         </tagletArtifact>
       </configuration>
     </plugin>
