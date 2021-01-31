@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package guru.nidi.graphviz;
+package guru.nidi.graphviz.taglet9;
 
 import com.sun.source.doctree.DocTree;
 import guru.nidi.graphviz.engine.Format;
